@@ -74,3 +74,6 @@ Para monitorar o log do Cowrie e enviar um e-mail quando houver uma interação 
    ```
 
    (Nota: `smtplib` já está incluído na biblioteca padrão do Python. Se você encontrar problemas, pode ser necessário instalar outros módulos adicionais ou configurar o envio de e-mails de acordo com sua necessidade.)
+
+agora inicie o monitoramento
+python monitor.py
